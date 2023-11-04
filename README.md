@@ -16,4 +16,15 @@
 </div>
 
 <h1>Github Stats</h1>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Code-seven123&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: tokyonight)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Code-seven123&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Code-seven123&show_icons=true" />
+</picture>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Code-seven123&theme=solarized-light&date_format=M%20j%5B%2C%20Y%5D&card_width=500&fire=EB0000&background=45%2C000000%2CBD7AEB&border=777777" alt="GitHub Streak" /></a>
