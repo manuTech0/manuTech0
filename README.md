@@ -5,7 +5,7 @@
 + 🧒 My real name is Maulana Nurfanoto
 + 🎭 My other name is Code Code-seven123
 + 📅 I was born on July 24 2007
-+ 📋 The programming languages and frameworks that I know are Java, Kotlin, HTML, CSS, Javascript, React JS, Laravel, PHP, and JQuery
++ 📋 The programming languages and frameworks that I know are Java, Kotlin, HTML, CSS, Javascript, React JS, Laravel, PHP, JQuery, ruby, sinatra, ejs, blade
 
 # Github stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Code-seven123&theme=tokyonight&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
