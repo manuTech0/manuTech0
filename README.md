@@ -1,6 +1,6 @@
 ![Code-seven123](./bg1.jpg)
 # 💫 About Me:
-Students who are enthusiastic about computing with Node.js and Ruby skills. Experienced in web application and API development, and has a strong interest in continuous learning and innovation.
+A backend developer with a strong focus on authorization systems and authentication mechanisms, as well as designing scalable and secure backend architectures. Experienced in building modern authentication flows, including token-based and passwordless approaches, managing access control, and creating flexible system foundations that can support multiple applications within a single ecosystem. Approaches development with an emphasis on efficiency, reliability, and maintainability, aiming to build backends that are not only stable but also easy to extend and integrate across different environments.
 
 
 ## 🌐 Socials:
